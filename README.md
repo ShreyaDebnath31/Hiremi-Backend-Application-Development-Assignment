@@ -2,14 +2,14 @@
 
 In this, I have created a backend application with CRUD APIs for managing assistants using Node.js and Express for query handling and mysql as database. This assignment includes:
 
-#Application Requirements:
+# Application Requirements:
 
 1) Implemented CRUD APIs (POST, GET, PUT, DELETE) for managing Assistants using Node.js and Express.
 
 2) Defined database model(s) for the Assistant, including applicable fields such as id, name, mobile, email, salary, city, country, department, role using mysql.
 
 
-#API Endpoints:
+# API Endpoints:
 
 Implemented the following API endpoints:
 
@@ -22,7 +22,7 @@ Implemented the following API endpoints:
 4) DELETE /assistant/<assistant_id>: Deletes the record of the assistant with the specified id.
 
 
-#Postman Collection and Testing:
+# Postman Collection and Testing:
 
 1) Created a Postman collection containing requests for testing the implemented API endpoints.
 
